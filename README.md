@@ -23,7 +23,7 @@ Descrição breve do que a aplicação faz.
 ## 🏗 Arquitetura (Clean Architecture)
 
 O projeto segue a Clean Architecture com separação clara entre camadas:
-
+*(a preencher)*
 
 
 ---
